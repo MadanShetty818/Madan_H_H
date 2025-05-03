@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a Data Analyst!
+# Hi 👋,I'm Madan H H
+"A passionate data analyst from India"
 
 
 ## 🌐 Socials:
