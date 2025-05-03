@@ -1,6 +1,6 @@
-# Hi 👋, I'm Chandan S Gowda
+# Hi 👋, I'm Madan H H
 
-**A passionate developer from India 🇮🇳**
+**A passionate Data Analyst from India 🇮🇳**
 
 
 ## 🌐 Socials:
