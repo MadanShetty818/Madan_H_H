@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chandan S Gowda</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Madan H H</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 
 
