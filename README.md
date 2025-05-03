@@ -1,6 +1,6 @@
 # Hi 👋, I'm Madan H H
 
-**A passionate Data Analyst from India 🇮🇳**
+**A passionate Data Analyst from India**
 
 
 ## 🌐 Socials:
