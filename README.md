@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madan H H</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-
+![Profile views](https://komarev.com/ghpvc/?username=chandangowda&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Madan_Shettywarrier) 
