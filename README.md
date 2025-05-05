@@ -10,12 +10,13 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Excel_Logo_2019.png" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Power_BI_Logo_2021.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/SQL_Logo.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SQL_logo.svg" alt="SQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="50" height="50"/>
 </p>
+
 
 
 
