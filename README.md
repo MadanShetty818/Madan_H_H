@@ -7,13 +7,20 @@
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
+  <br><br>
+  <!-- Row 2 -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/r-project.png" alt="R Programming" width="50" height="50"/>
 </p>
 
 ## 🌐 Socials:
