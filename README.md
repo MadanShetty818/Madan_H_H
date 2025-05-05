@@ -7,8 +7,6 @@
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 <p align="left">
   <!-- Row 1 -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
