@@ -9,13 +9,25 @@
 ## 🛠️ Skills
 
 <p align="left">
+  <!-- Excel Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Excel_Logo_2019.png" alt="Excel" width="50" height="50"/>
+  
+  <!-- Power BI Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  
+  <!-- Tableau Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+  
+  <!-- SQL Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SQL_logo.svg" alt="SQL" width="50" height="50"/>
+  
+  <!-- Python Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
+  
+  <!-- R Logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="50" height="50"/>
 </p>
+
 
 
 
