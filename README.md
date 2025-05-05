@@ -5,16 +5,18 @@
 
 <h3> Zomato_Sales_Analytics_Project </h3>
 
+
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Excel_Logo_2019.png" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Power_BI_Logo_2021.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/SQL_Logo.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="50" height="50"/>
 </p>
+
 
 
 
