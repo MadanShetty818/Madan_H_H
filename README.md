@@ -3,7 +3,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=chandangowda&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3> Zomato_Sales_Analytics_Project </h3>
 
 ## 🛠️ Skills
 
