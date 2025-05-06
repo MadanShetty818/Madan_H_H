@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madan H H</h1>
-<hr>
 <h3 align="center">A passionate Data Analyst from India</h3>
+
 <hr>
+
 <p align="center">
   <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/20240204_204445%20(1).jpg" alt="Madan H H" width="150" style="border-radius: 50%;"/>
 </p>
