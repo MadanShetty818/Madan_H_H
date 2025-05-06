@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madan H H</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<hr>
+<hr style="height:1px; border:none; background-color:#ccc;"/>
 
 <p align="center">
   <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/20240204_204445%20(1).jpg" alt="Madan H H" width="150" style="border-radius: 50%;"/>
 </p>
 
-<hr>
+<hr style="height:1px; border:none; background-color:#ccc;"/>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=chandangowda&label=Profile%20views&color=0e75b6&style=flat)
