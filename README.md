@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/20240204_204445%20(1).jpg" alt="Madan H H" width="150" style="border-radius: 50%;"/>
+  <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/20240204_204445%20(1).jpg" alt="Madan H H" width="170" style="border-radius: 50%;"/>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=chandangowda&label=Profile%20views&color=0e75b6&style=flat)
