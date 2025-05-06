@@ -22,6 +22,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="50" height="50"/>
 </p>
 
+## 🚀 Projects
+
+### 🍽️ <a href="https://github.com/MadanShetty818/zomato-sales-analytics" target="_blank">Zomato Sales Analytics</a>
+
+End-to-end data analytics project using <b>SQL</b>, <b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b> to analyze customer behavior, restaurant performance, and key KPIs on the Zomato platform.
+
+📌 <b>Highlights:</b>  
+- Customer behavior insights through reviews, ratings, and spending patterns  
+- City-wise restaurant performance and cuisine popularity  
+- KPI dashboards built in Power BI and Tableau  
+- Full stack: Data extraction → Cleaning → Analysis → Visualization → Presentation  
+
+📁 <b>Tools Used:</b> SQL, MySQL, Excel, Power BI, Tableau, PowerPoint  
+📎 <b>Files Included:</b> `.sql`, `.pbix`, `.twbx`, `.xlsx`, `.pptx`  
+📊 <b>Dashboards:</b> Interactive filters for city, cost, delivery option, and cuisine  
+
+👉 <a href="https://github.com/MadanShetty818/zomato-sales-analytics" target="_blank"><b>View Project Repository</b></a>
 
 
 ## 🌐 Socials:
