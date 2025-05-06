@@ -46,6 +46,29 @@ End-to-end data analytics project using <b>SQL</b>, <b>Excel</b>, <b>Power BI</b
 
 👉 <a href="https://github.com/MadanShetty818/Zomato_Sales_Analytics" target="_blank"><b>View Project Repository</b></a>
 
+---
+
+### 🎓 Education
+
+**Bachelor of Computer Applications**  
+_2021 – 2024_  
+**Overall: 82%**
+
+---
+
+### 📜 Certifications
+
+- **Data Analytics Certification** – ExcelR, *March 2025*  
+- **Digital Fluency – Digital 101** – Future Skills Prime, *March 2022*
+
+---
+
+### 🎯 Interests & Hobbies
+
+Cybersecurity Exploration • Sports & Fitness • Antique Bike Riding
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Madan_Shettywarrier) 
