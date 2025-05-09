@@ -58,8 +58,12 @@ _2021 – 2024_
 
 ### 📜 Certifications
 
-- **Data Analytics Certification** – ExcelR, *March 2025*  
-- **Digital Fluency – Digital 101** – Future Skills Prime, *March 2022*
+- **Data Analytics Certification** – ExcelR, <i>March 2025</i>  
+<a href="https://github.com/MadanShetty818/Madan_H_H/blob/main/Data%20Analyst%20Certificate%20(1).pdf" target="_blank">View Certificate</a>
+
+**Digital Fluency – Digital 101** – Future Skills Prime, <i>March 2022</i>  
+
+
 
 ---
 
