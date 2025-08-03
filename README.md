@@ -34,6 +34,31 @@
 
 End-to-end data analytics project using <b>SQL</b>, <b>Excel</b>, <b>Power BI</b>, and <b>Tableau</b> to analyze customer behavior, restaurant performance, and key KPIs on the Zomato platform.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/Screenshot%202025-05-26%20092156.png?raw=true" 
+           alt="Zomato Sales" width="480"/><br/>
+      <strong>Zomato Sales Analytics using Tableau</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/Screenshot%202025-05-26%20092126.png?raw=true" 
+           alt="Product Metrics" width="480"/><br/>
+      <strong>Zomato Sales Analytics using Power BI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MadanShetty818/Madan_H_H/blob/main/Screenshot%202025-05-26%20091919.png?raw=true" 
+           alt="Customer Insights" width="480"/><br/>
+      <strong>Zomato Sales Analytics using Excel</strong>
+    </td>
+  </tr>
+</table>
+
+
+
+
 📌 <b>Highlights:</b>  
 - Customer behavior insights through reviews, ratings, and spending patterns  
 - City-wise restaurant performance and cuisine popularity  
